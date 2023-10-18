@@ -1,0 +1,28 @@
+﻿Região;UF; desocupacao ; rendimento ; gini ; leitos ;analfabetismo;anos_estudo
+Norte;Rondônia;9.4;1998;0.459;3.4;4.9;9.5
+Norte;Acre;16.2;1914;0.539;2.1;8.5;9.6
+Norte;Amazonas;15.4;1790;0.541;1.8;4.9;10.2
+Norte;Roraima;13.8;2249;0.596;1.6;3.9;10.6
+Norte;Pará;13;1678;0.529;1.7;7.4;9.3
+Norte;Amapá;14.4;1962;0.53;2.1;5;10.4
+Norte;Tocantins;14.2;2059;0.514;2.7;7.2;9.8
+Nordeste;Maranhão;17.5;1452;0.53;1.8;12.1;8.9
+Nordeste;Piauí;13;1409;0.516;2;14.8;8.6
+Nordeste;Ceará;14;1744;0.549;2.2;12;9.1
+Nordeste;Rio Grande do Norte;15.6;2029;0.587;2.9;10.5;9.3
+Nordeste;Paraíba;16.1;1706;0.562;2.7;13.6;8.5
+Nordeste;Pernambuco;20.2;1761;0.579;3.2;11;9.1
+Nordeste;Alagoas;18.7;1583;0.526;2.1;14.4;8.7
+Nordeste;Sergipe;20.6;1739;0.568;2;11.7;8.9
+Nordeste;Bahia;21.3;1543;0.546;2.3;10.3;8.9
+Sudeste;Minas Gerais;12.1;2099;0.487;3;4.8;9.8
+Sudeste;Espírito Santo;12.7;2163;0.509;4.6;4.7;10
+Sudeste;Rio de Janeiro;18.1;2924;0.565;4.4;2.1;11.1
+Sudeste;São Paulo;14.4;3026;0.533;3.5;2.2;11
+Sul;Paraná;8.9;2590;0.475;3.3;3.9;10.1
+Sul;Santa Catarina;5.1;2650;0.424;2.8;2.2;10.4
+Sul;Rio Grande do Sul;8.8;2653;0.468;3.1;2.5;10.3
+Centro-Oeste;Mato Grosso do Sul;9.5;2468;0.496;2.9;4;10.2
+Centro-Oeste;Mato Grosso;9.4;2455;0.461;3.5;4.9;9.9
+Centro-Oeste;Goiás;11.8;2215;0.467;3.4;4.5;10.1
+Centro-Oeste;Distrito Federal;14.6;4084;0.566;5.1;1.9;11.8
